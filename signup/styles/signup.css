@@ -1,0 +1,36 @@
+/* public/styles/signup.css */
+.form-container {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .form-container h1 {
+    text-align: center;
+  }
+  
+  .form-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-container label {
+    margin-bottom: 5px;
+  }
+  
+  .form-container input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .form-container button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #0056b3;
+  }
+  
